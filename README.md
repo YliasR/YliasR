@@ -15,9 +15,9 @@ I build things that probably didn't need building, and I have a lot of fun doing
 ### 🔧 what i'm tinkering with
 
 - **🏡 a homelab that thinks it's a datacenter** — Proxmox, a fleet of Raspberry Pis, Home Assistant running the lights, heating, and energy stuff
-- **🎛️ M5Hub** — custom Arduino firmware for the M5Stack Cardputer: universal IR remote + sensor hub + MQTT/HA integration
+- **📺 [CapView](https://github.com/YliasR/CapView)** — a minimal Windows capture card viewer with video, audio, and Discord window sharing
 - **📥 VidFetch** — a Svelte app for grabbing video, because the existing tools annoyed me
-- **🌾 Tanzania Farming Sim** — took the 3D demo from a school project and forked it into an actual farming game
+- **🎵 [PodPilot](https://github.com/YliasR/PodPilot)** — a desktop music manager for click-wheel iPods, with library editing, playlists, and drag-and-drop imports
 
 ### 🧰 toolbox
 
