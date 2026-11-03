@@ -18,7 +18,7 @@ I build things that probably didn't need building, and I have a lot of fun doing
 - **📺 [CapView](https://github.com/YliasR/CapView)** — a minimal Windows capture card viewer with video, audio, and Discord window sharing
 - **📥 VidFetch** — a Svelte app for grabbing video, because the existing tools annoyed me
 - **🎵 [PodPilot](https://github.com/YliasR/PodPilot)** — a desktop music manager for click-wheel iPods, with library editing, playlists, and drag-and-drop imports
-
+- **💬 [Mystic's Plugins](https://github.com/YliasR/mystics-plugins)** — a collection of custom vencord plugins.
 ### 🧰 toolbox
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
