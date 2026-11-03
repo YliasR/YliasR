@@ -2,7 +2,7 @@
 
 Belgian applied Electronics-ICT student · cybersecurity-flavored · perpetual tinkerer
 
-🌐 [roggeman.dev](https://roggeman.dev) — portfolio &nbsp;·&nbsp; 🔮 [mystic.gay](https://mystic.gay) — projects & socials &nbsp;·&nbsp; 📫 [email](mailto:ylias.roggeman@gmail.com)
+🌐 [roggeman.dev](https://roggeman.dev) — portfolio &nbsp;·&nbsp; 🔮 [mystic.gay](https://mystic.gay) — projects & socials &nbsp;·&nbsp;
 
 ---
 
